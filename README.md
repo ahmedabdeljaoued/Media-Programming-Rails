@@ -1,6 +1,6 @@
 # Media Programming Rails
 
-A post scheduler for survey Platform as a single web page application build with ruby on rails.
+My project will Offer a web-based interface for creating and publishing custom web surveys, and then viewing the results graphically in real time.
 
 requires:
 
