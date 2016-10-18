@@ -1,4 +1,4 @@
-# README
+# Media Programming Rails
 
 A post scheduler for survey Platform as a single web page application build with ruby on rails.
 
